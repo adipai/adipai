@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+I'm Aditya :man_technologist:  an AI developer, technical speaker and startup enthusiast.      
+
+
+
 
 <!--
 **adipai/adipai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
