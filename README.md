@@ -6,9 +6,6 @@ I'm a (foodie first 😁) software engineer, looking for my next travel escapade
 ## 🔭 What I do ?
 I'm a software wizard 👨‍💻 specializing in the enchanting realms of data and AI, with an experience for all things backend! ✨ My craft lies in architecting and building data-intensive and intelligent applications, seamlessly orchestrated on cloud 🌩️⚡️. 
 
-🌱 I’m currently learning distributed systems and parallelism
-
-
 ## 🛠️ Tools and tech I use
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -36,6 +33,11 @@ I'm a software wizard 👨‍💻 specializing in the enchanting realms of data 
 <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <img src = "https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
 <img src = "https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
+
+## 🌱 What am I exploring ? 
+* Distributed systems - develop reliable software at scale
+* Optimization - make my code faster and less expensive to use
+* Mindfulness - it's subjective btw !
 
 ## 📇 Say hi!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityapai16/)
